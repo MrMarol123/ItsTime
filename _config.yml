@@ -1,13 +1,13 @@
 # site settings
 title: Unidorsen
 subtitle: Hodowla Psów Rasowych
-email: mrmarol123@wp.pl
+email: unidorsen@wp.pl
 description: Hodowla Psów z zamiłowaniem i pasją do zwierząt
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://unidorsen.netlify.com" # the base hostname & protocol for your site
 author: Marcel Bednarczyk
 street_address:
-city: Łódź
+city: Rzgów
 state: łódzkie
 zip_code:
 country: Polska
@@ -19,11 +19,11 @@ tiles-count: 2
 
 # social settings
 500px_url:
-facebook_url: https://www.facebook.com/marcel.bednarczyk.79
+facebook_url: https://www.facebook.com/unidorsen/
 github_url:
 gitlab_url:
 googleplus_url: 
-instagram_url:
+instagram_url: https://www.instagram.com/unidorsen/
 linkedin_url:
 pinterest_url:
 slack_url:
