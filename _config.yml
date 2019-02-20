@@ -3,8 +3,8 @@ title: Unidorsen
 subtitle: Hodowla Psów Rasowych
 email: mrmarol123@wp.pl
 description: Hodowla Psów z zamiłowaniem i pasją do zwierząt
-baseurl: "/unidorsen" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog
+url: "https://hungry-leavitt-0f34b0.netlify.com" # the base hostname & protocol for your site
 author: Marcel Bednarczyk
 street_address:
 city: Łódź
