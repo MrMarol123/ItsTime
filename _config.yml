@@ -1,0 +1,36 @@
+# site settings
+title: Unidorsen
+subtitle: Hodowla Psów Rasowych
+email: mrmarol123@wp.pl
+description: Hodowla Psów z zamiłowaniem i pasją do zwierząt
+baseurl: "/unidorsen" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: Marcel Bednarczyk
+street_address:
+city: Łódź
+state: łódzkie
+zip_code:
+country: Polska
+phone: 535 425 189
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 2
+
+# social settings
+500px_url:
+facebook_url: https://www.facebook.com/marcel.bednarczyk.79
+github_url:
+gitlab_url:
+googleplus_url: 
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
