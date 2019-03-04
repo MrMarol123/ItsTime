@@ -4,7 +4,7 @@ subtitle: Hodowla Psów Rasowych
 email: unidorsen@wp.pl
 description: Hodowla Psów z zamiłowaniem i pasją do zwierząt
 baseurl: # the subpath of your site, e.g. /blog
-url: "unidorsen.pl" # the base hostname & protocol for your site
+url: "https://www.unidorsen.pl" # the base hostname & protocol for your site
 author: Marcel Bednarczyk
 street_address:
 city: Rzgów
