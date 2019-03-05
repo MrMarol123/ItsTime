@@ -11,14 +11,14 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<section class="image">
-			<img src="assets/images/brak.jpg" alt="" data-position="center center" />
+			<img src="assets/images/miota1.jpg" alt="" data-position="center center" />
 		</section>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Obecny miot Labradorów</h3>
 				</header>
-				<p>Aktualnie nie mamy szczeniąt.</p>
+				<p>Mamy przyjemność Państwu oznajmić o przyjściu na świat w naszej hodowli miotu biszkoptowych labradorków. Szczęśliwymi rodzicami są JASMINE Leśna Czereda z naszej hodowli, oraz MAX Urok Pojezierza z hodowli Pati-Żako i Labusie</p>
 			</div>
 		</div>
 	</section>
