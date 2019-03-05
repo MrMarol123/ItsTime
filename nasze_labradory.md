@@ -2,7 +2,7 @@
 layout: landing
 title: Nasze Labradory
 description:
-image: assets/images/pic03.jpg
+image: assets/images/labradory.jpg
 nav-menu: true
 ---
 <!-- Main -->
