@@ -50,10 +50,8 @@ nav-menu: true
 				</header>
 				<p>Czarna suczka</p>
 				<p>Ur. 5 marca 2017</p>
-				<ul>
-					<li>HD-A</li>
-					<li>ED-0/0</li>
-				</ul>
+				<p>HD-A</p>
+				<p>ED-0/0</p>
 			</div>
 		</div>
 	</section>
@@ -67,10 +65,8 @@ nav-menu: true
 				</header>
 				<p>Biszkoptowa suczka</p>
 				<p>Ur. 19 lutego 2017</p>
-				<ul>
-					<li>HD-A</li>
-					<li>ED-0/0</li>
-				</ul>
+				<p>HD-A</p>
+				<p>ED-0/0</p>
 				</div>
 			</div>
 		</div>
@@ -85,10 +81,8 @@ nav-menu: true
 				</header>
 				<p>Czarna suczka</p>
 				<p>Ur. 6 marca 2017</p>
-				<ul>
-					<li>HD-A</li>
-					<li>ED-0/0</li>
-				</ul>
+				<p>HD-A</p>
+				<p>ED-0/0</p>
 			</div>
 		</div>
 	</section>
