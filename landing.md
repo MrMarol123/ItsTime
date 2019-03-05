@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="nasze_labradory.html" class="image">
-			<img src="assets/images/barni.jpg" alt="" data-position="center center" />
+			<img src="assets/images/labradory.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
