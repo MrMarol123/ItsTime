@@ -26,6 +26,7 @@ nav-menu: true
 				<header class="major">
 					<h3>BARNI Tęczowy Gaj</h3>
 				</header>
+				<p>Biszkoptowy pies</p>
 				<p>Ur. 25 marca 2018</p>
 			</div>
 		</div>
@@ -47,7 +48,12 @@ nav-menu: true
 				<header class="major">
 					<h3>TOSCA TOSARI Tęczowy Gaj</h3>
 				</header>
+				<p>Czarna suczka</p>
 				<p>Ur. 5 marca 2017</p>
+				<ul>
+					<li>HD-A</li>
+					<li>ED-0/0</li>
+				</ul>
 			</div>
 		</div>
 	</section>
@@ -59,7 +65,12 @@ nav-menu: true
 				<header class="major">
 					<h3>JASMINE Leśna Czereda</h3>
 				</header>
+				<p>Biszkoptowa suczka</p>
 				<p>Ur. 19 lutego 2017</p>
+				<ul>
+					<li>HD-A</li>
+					<li>ED-0/0</li>
+				</ul>
 				</div>
 			</div>
 		</div>
@@ -72,7 +83,12 @@ nav-menu: true
 				<header class="major">
 					<h3>SHILOH SWEET Tęczowy Gaj</h3>
 				</header>
+				<p>Czarna suczka</p>
 				<p>Ur. 6 marca 2017</p>
+				<ul>
+					<li>HD-A</li>
+					<li>ED-0/0</li>
+				</ul>
 			</div>
 		</div>
 	</section>
@@ -84,6 +100,7 @@ nav-menu: true
 				<header class="major">
 					<h3>INFRA Dolcecca Negra</h3>
 				</header>
+				<p>Biszkoptowa suczka</p>
 				<p>Ur. 29 stycznia 2018</p>
 				</div>
 			</div>
