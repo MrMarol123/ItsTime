@@ -15,7 +15,7 @@ phone: 535 425 189
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 2
+tiles-count: 4
 
 # social settings
 500px_url:
