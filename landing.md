@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p></p>
 				<ul class="actions">
-					<li><a href="nasze_labradory.html" class="button">Zobacz więcej</a></li>
+					<li><a href="nasze_labradory.html" class="button">Kliknij</a></li>
 				</ul>
 			</div>
 		</div>
@@ -48,7 +48,7 @@ nav-menu: true
 				</header>
 				<p></p>
 				<ul class="actions">
-					<li><a href="nasze_szczenieta.html" class="button">Zobacz więcej</a></li>
+					<li><a href="nasze_szczenieta.html" class="button">Kliknij</a></li>
 				</ul>
 			</div>
 		</div>
