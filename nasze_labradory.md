@@ -28,6 +28,9 @@ nav-menu: true
 				</header>
 				<p>Biszkoptowy pies</p>
 				<p>Ur. 25 marca 2018</p>
+				<p>HD-A</p>
+				<p>ED-0/0</p>
+				<p>EIC-N/N (czysty)</p>
 			</div>
 		</div>
 	</section>
@@ -96,6 +99,8 @@ nav-menu: true
 				</header>
 				<p>Biszkoptowa suczka</p>
 				<p>Ur. 29 stycznia 2018</p>
+				<p>HD-A</p>
+				<p>ED-0/0</p>
 				</div>
 			</div>
 		</div>
