@@ -38,7 +38,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>SUCZKI</h2>
+			<h2>SUNIE</h2>
 		</header>
 	</div>
 </section>

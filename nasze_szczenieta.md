@@ -18,7 +18,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Obecny miot Labradorów</h3>
 				</header>
-				<p>Mamy przyjemność Państwu oznajmić o przyjściu na świat w naszej hodowli miotu biszkoptowych labradorków. Szczęśliwymi rodzicami są JASMINE Leśna Czereda z naszej hodowli, oraz MAX Urok Pojezierza z hodowli Pati-Żako i Labusie</p>
+				<p>Obecnie spodziewamy się szczeniąt! Prosimy o kontakt tel. 535-425-189</p>
 			</div>
 		</div>
 	</section>

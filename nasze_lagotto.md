@@ -2,8 +2,8 @@
 layout: landing
 title: Nasze Lagotto
 description:
-image: assets/images/pic08.jpg
-nav-menu: false
+image: assets/images/lagotto.jpg
+nav-menu: true
 ---
 <!-- Main -->
 <div id="main">
@@ -17,54 +17,36 @@ nav-menu: false
 Rodowody dostępne.</p>
 	</div>
 </section>-->
+<section id="three">
+	<div class="inner">
+		<header class="major">
+			<h2>SUNIE</h2>
+		</header>
+	</div>
+</section>
 <!-- Two -->
 <section id="four" class="spotlights">
 	<section>
-			<img src="assets/images/tosca.jpg" alt="" data-position="center center" />
+			<img src="assets/images/toccata.jpg" alt="" data-position="center center" />
 
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>TOSCA TOSARI Tęczowy Gaj</h3>
+					<h3>TOCCATA Górska Fantazja</h3>
 				</header>
-				<p>Ur. 5 marca 2017</p>
+				<p>Ur. 24 stycznia 2019</p>
 			</div>
 		</div>
 	</section>
 	<section>
-			<img src="assets/images/jasmine.jpg" alt="" data-position="top center" />
+			<img src="assets/images/emma.jpg" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<div align="right">
 				<header class="major">
-					<h3>JASMINE Leśna Czereda</h3>
+					<h3>EMMA Con Riccioli</h3>
 				</header>
-				<p>Ur. 19 lutego 2017</p>
-				</div>
-			</div>
-		</div>
-	</section>
-	<section>
-			<img src="assets/images/shiloh.jpg" alt="" data-position="center center" />
-
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>SHILOH SWEET Tęczowy Gaj</h3>
-				</header>
-				<p>Ur. 6 marca 2017</p>
-			</div>
-		</div>
-	</section>
-	<section>
-			<img src="assets/images/infra.jpg" alt="" data-position="top center" />
-		<div class="content">
-			<div class="inner">
-				<div align="right">
-				<header class="major">
-					<h3>INFRA Dolcecca Negra</h3>
-				</header>
-				<p>Ur. 29 stycznia 2018</p>
+				<p>Ur. 1 marca 2019</p>
 				</div>
 			</div>
 		</div>
