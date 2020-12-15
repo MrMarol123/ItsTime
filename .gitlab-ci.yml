@@ -3,9 +3,8 @@ image: ruby
 pages:
   stage: build
   script:
-  - gem install bundle jekyll
-  - gem install bundler
-  - bundle exec jekyll build -d public
+  - gem install jekyll
+  - jekyll build -d public
   artifacts:
     paths:
     - public
