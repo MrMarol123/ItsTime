@@ -1,4 +1,5 @@
 image: ruby
+- build
 
 pages:
   stage: build
