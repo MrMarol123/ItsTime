@@ -2,9 +2,9 @@
 title: Unidorsen
 subtitle: Hodowla Psów Rasowych
 email: unidorsen@wp.pl
-description: Hodowla Psów z zamiłowaniem i pasją do zwierząt. Jesteśmy zarejestrowani w ZKwP należącym do FCI.
+description: Hodowla Psów z zamiłowaniem i pasją do zwierząt
 baseurl: # the subpath of your site, e.g. /blog
-url: "https://www.unidorsen.pl" # the base hostname & protocol for your site
+url: "127.0.0.1" # the base hostname & protocol for your site
 author: Marcel Bednarczyk
 street_address:
 city: Rzgów

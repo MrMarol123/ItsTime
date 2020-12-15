@@ -1,11 +1,4 @@
----
-layout: landing
-title: Nasze Lagotto
-description:
-image: assets/images/lagotto.jpg
-nav-menu: true
----
-<!-- Main -->
+I"J<!-- Main -->
 <div id="main">
 
 <!-- One -->
@@ -17,13 +10,6 @@ nav-menu: true
 Rodowody dostępne.</p>
 	</div>
 </section>-->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>SUNIE</h2>
-		</header>
-	</div>
-</section>
 <!-- Two -->
 <section id="four" class="spotlights">
 	<section>
@@ -52,3 +38,5 @@ Rodowody dostępne.</p>
 		</div>
 	</section>
 </section>
+</div>
+:ET
