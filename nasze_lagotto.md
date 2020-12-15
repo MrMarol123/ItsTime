@@ -35,6 +35,11 @@ Rodowody dostępne.</p>
 					<h3>TOCCATA Górska Fantazja</h3>
 				</header>
 				<p>Ur. 24 stycznia 2019</p>
+				<p>HD-A</p>
+				<p>ED-0/0</p>
+				<p>LSD-N/N (clear)</p>
+				<p>JE-N/N (clear)</p>
+				<p>Furnishing F/F</p>
 			</div>
 		</div>
 	</section>
@@ -47,6 +52,11 @@ Rodowody dostępne.</p>
 					<h3>EMMA Con Riccioli</h3>
 				</header>
 				<p>Ur. 1 marca 2019</p>
+				<p>HD-A</p>
+				<p>ED-0/0</p>
+				<p>LSD-N/N (clear)</p>
+				<p>JE-N/N (clear)</p>
+				<p>Furnishing F/F</p>
 				</div>
 			</div>
 		</div>
