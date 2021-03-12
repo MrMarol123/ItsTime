@@ -65,7 +65,7 @@ Rodowody dostępne.</p>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>TOCCATA Górska Fantazja</h3>
+					<h3>BELLA Pati-Żako i Labusie</h3>
 				</header>
 				<p>Ur. 20 lipca 2019</p>
 				<p>LSD-N/N (clear)</p>
