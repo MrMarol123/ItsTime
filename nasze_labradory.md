@@ -26,11 +26,10 @@ nav-menu: true
 				<header class="major">
 					<h3>BARNI Tęczowy Gaj</h3>
 				</header>
-				<p>Biszkoptowy pies</p>
-				<p>Ur. 25 marca 2018</p>
-				<p>HD-A</p>
-				<p>ED-0/0</p>
-				<p>EIC-N/N (czysty)</p>
+				<p>Biszkoptowy pies, ur. 25 marca 2018</p>
+				<p><strong>HD</strong>-A, <strong>ED</strong>-0/0, <strong>EIC</strong> - N/N (czysty), </p>
+				<p><strong>prcd-PRA</strong> - N/N (czysty), <strong>CNM</strong> - N/N (czysty)</p>
+				<p><strong>HNPK</strong> - N/N (czysty), <strong>DM</strong> - N/N (czysty)</p>
 			</div>
 		</div>
 	</section>
