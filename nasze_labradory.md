@@ -27,9 +27,9 @@ nav-menu: true
 					<h3>BARNI Tęczowy Gaj</h3>
 				</header>
 				<p>Biszkoptowy pies, ur. 25 marca 2018</p>
-				<p><strong>HD</strong>-A, <strong>ED</strong>-0/0, <strong>EIC</strong> - N/N (czysty), </p>
-				<p><strong>prcd-PRA</strong> - N/N (czysty), <strong>CNM</strong> - N/N (czysty)</p>
-				<p><strong>HNPK</strong> - N/N (czysty), <strong>DM</strong> - N/N (czysty)</p>
+				<p><strong>HD</strong>-A, <strong>ED</strong>-0/0, <strong>Skeletal Dysplasia 2</strong> - N/N (wolny)</p>
+				<p><strong>EIC</strong> - N/N (wolny), <strong>prcd-PRA</strong> - N/N (wolny)</p>
+				<p><strong>Dziedziczna Miopatia</strong> - N/N (wolny), <strong>HNPK</strong> - N/N (wolny), <strong>Mielopatia</strong> - N/N (wolny)</p>
 			</div>
 		</div>
 	</section>
