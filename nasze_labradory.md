@@ -27,7 +27,7 @@ nav-menu: true
 					<h3>BARNI Tęczowy Gaj</h3>
 				</header>
 				<p>Biszkoptowy pies, ur. 25 marca 2018</p>
-				<p><strong>HD</strong>-A, <strong>ED</strong>-0/0, <strong>Skeletal Dysplasia 2</strong> - N/N (wolny)</p>
+				<p><strong>HD</strong>-A, <strong>ED</strong>-0/0, <strong>Skeletal Dysplasia</strong> - N/N (wolny), <strong>Retinal Dysplasie</strong> - N/N (wolny)</p>
 				<p><strong>EIC</strong> - N/N (wolny), <strong>prcd-PRA</strong> - N/N (wolny)</p>
 				<p><strong>Dziedziczna Miopatia</strong> - N/N (wolny), <strong>HNPK</strong> - N/N (wolny), <strong>Mielopatia</strong> - N/N (wolny)</p>
 			</div>
@@ -50,7 +50,7 @@ nav-menu: true
 				<header class="major">
 					<h3>TOSCA TOSARI Tęczowy Gaj</h3>
 				</header>
-				<p>Czarna suczka</p>
+				<p>Czarna sunia</p>
 				<p>Ur. 5 marca 2017</p>
 				<p>HD-A</p>
 				<p>ED-0/0</p>
@@ -65,7 +65,7 @@ nav-menu: true
 				<header class="major">
 					<h3>JASMINE Leśna Czereda</h3>
 				</header>
-				<p>Biszkoptowa suczka</p>
+				<p>Biszkoptowa sunia</p>
 				<p>Ur. 19 lutego 2017</p>
 				<p>HD-A</p>
 				<p>ED-0/0</p>
@@ -81,10 +81,10 @@ nav-menu: true
 				<header class="major">
 					<h3>SHILOH SWEET Tęczowy Gaj</h3>
 				</header>
-				<p>Czarna suczka</p>
-				<p>Ur. 6 marca 2017</p>
-				<p>HD-A</p>
-				<p>ED-0/0</p>
+				<p>Czarna sunia, ur. 6 marca 2017</p>
+				<p><strong>HD</strong>-A, <strong>ED</strong>-0/0, <strong>Skeletal Dysplasia</strong> - N/N (wolna), <strong>Retinal Dysplasie</strong> - N/N (wolna)</p>
+				<p><strong>EIC</strong> - N/N (wolna), <strong>prcd-PRA</strong> - N/N (wolna)</p>
+				<p><strong>Dziedziczna Miopatia</strong> - N/N (wolna), <strong>HNPK</strong> - N/N (wolna), <strong>Mielopatia</strong> - N/N (wolna)</p>
 			</div>
 		</div>
 	</section>
@@ -96,7 +96,7 @@ nav-menu: true
 				<header class="major">
 					<h3>INFRA Dolcecca Negra</h3>
 				</header>
-				<p>Biszkoptowa suczka</p>
+				<p>Biszkoptowa sunia</p>
 				<p>Ur. 29 stycznia 2018</p>
 				<p>HD-A</p>
 				<p>ED-0/0</p>
