@@ -24,9 +24,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>BARNI Tęczowy Gaj</h3>
+					<h3>BARNI Tęczowy Gaj (FCI)</h3>
 				</header>
-				<p>Biszkoptowy pies, ur. 25 marca 2018</p>
+				<p>Labrador Retriever, Biszkoptowy pies, ur. 25 marca 2018</p>
 				<p><strong>HD</strong>-A, <strong>ED</strong>-0/0, <strong>Skeletal Dysplasia</strong> - N/N (wolny), <strong>Retinal Dysplasie</strong> - N/N (wolny)</p>
 				<p><strong>EIC</strong> - N/N (wolny), <strong>prcd-PRA</strong> - N/N (wolny)</p>
 				<p><strong>Dziedziczna Miopatia</strong> - N/N (wolny), <strong>HNPK</strong> - N/N (wolny), <strong>Mielopatia</strong> - N/N (wolny)</p>
@@ -48,9 +48,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>TOSCA TOSARI Tęczowy Gaj</h3>
+					<h3>TOSCA TOSARI Tęczowy Gaj (FCI)</h3>
 				</header>
-				<p>Czarna sunia</p>
+				<p>Labrador Retriever, Czarna sunia</p>
 				<p>Ur. 5 marca 2017</p>
 				<p>HD-A</p>
 				<p>ED-0/0</p>
@@ -63,9 +63,9 @@ nav-menu: true
 			<div class="inner">
 				<div align="right">
 				<header class="major">
-					<h3>JASMINE Leśna Czereda</h3>
+					<h3>JASMINE Leśna Czereda (FCI)</h3>
 				</header>
-				<p>Biszkoptowa sunia</p>
+				<p>Labrador Retriever, Biszkoptowa sunia</p>
 				<p>Ur. 19 lutego 2017</p>
 				<p>HD-A</p>
 				<p>ED-0/0</p>
@@ -79,9 +79,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>SHILOH SWEET Tęczowy Gaj</h3>
+					<h3>SHILOH SWEET Tęczowy Gaj (FCI)</h3>
 				</header>
-				<p>Czarna sunia, ur. 6 marca 2017</p>
+				<p>Labrador Retriever, Czarna sunia, ur. 6 marca 2017</p>
 				<p><strong>HD</strong>-A, <strong>ED</strong>-0/0, <strong>Skeletal Dysplasia</strong> - N/N (wolna), <strong>Retinal Dysplasie</strong> - N/N (wolna)</p>
 				<p><strong>EIC</strong> - N/N (wolna), <strong>prcd-PRA</strong> - N/N (wolna)</p>
 				<p><strong>Dziedziczna Miopatia</strong> - N/N (wolna), <strong>HNPK</strong> - N/N (wolna), <strong>Mielopatia</strong> - N/N (wolna)</p>
@@ -94,9 +94,9 @@ nav-menu: true
 			<div class="inner">
 				<div align="right">
 				<header class="major">
-					<h3>INFRA Dolcecca Negra</h3>
+					<h3>INFRA Dolcecca Negra (FCI)</h3>
 				</header>
-				<p>Biszkoptowa sunia</p>
+				<p>Labrador Retriever, Biszkoptowa sunia</p>
 				<p>Ur. 29 stycznia 2018</p>
 				<p>HD-A</p>
 				<p>ED-0/0</p>
