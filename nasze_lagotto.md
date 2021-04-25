@@ -32,9 +32,9 @@ Rodowody dostępne.</p>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>TOCCATA Górska Fantazja</h3>
+					<h3>TOCCATA Górska Fantazja (FCI)</h3>
 				</header>
-				<p>Ur. 24 stycznia 2019</p>
+				<p>Lagotto Romagnolo, ur. 24 stycznia 2019</p>
 				<p>HD-A, ED-0/0</p>
 				<p>LSD-N/N (clear)</p>
 				<p>JE-N/N (clear)</p>
@@ -48,9 +48,9 @@ Rodowody dostępne.</p>
 			<div class="inner">
 				<div align="right">
 				<header class="major">
-					<h3>EMMA Con Riccioli</h3>
+					<h3>EMMA Con Riccioli (FCI)</h3>
 				</header>
-				<p>Ur. 1 marca 2019</p>
+				<p>Lagotto Romagnolo, ur. 1 marca 2019</p>
 				<p>HD-A, ED-0/0</p>
 				<p>LSD-N/N (clear)</p>
 				<p>JE-N/N (clear)</p>
@@ -65,9 +65,9 @@ Rodowody dostępne.</p>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>BELLA Pati-Żako i Labusie</h3>
+					<h3>BELLA Pati-Żako i Labusie (FCI)</h3>
 				</header>
-				<p>Ur. 20 lipca 2019</p>
+				<p>Lagotto Romagnolo, ur. 20 lipca 2019</p>
 				<p>LSD-N/N (clear)</p>
 				<p>JE-N/N (clear)</p>
 				<p>NAD-N/N (clear)</p>
